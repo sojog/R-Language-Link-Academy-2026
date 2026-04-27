@@ -1,0 +1,7 @@
+https://www.tiobe.com/tiobe-index/r/
+
+# Download for mac
+https://cran.r-project.org/bin/macosx/
+
+# Download for windows
+https://cran.r-project.org/bin/windows/base/
