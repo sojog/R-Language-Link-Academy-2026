@@ -5,3 +5,6 @@ https://cran.r-project.org/bin/macosx/
 
 # Download for windows
 https://cran.r-project.org/bin/windows/base/
+
+# Functii in r
+https://cran.r-project.org/doc/contrib/Short-refcard.pdf
