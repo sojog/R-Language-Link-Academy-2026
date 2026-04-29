@@ -1,25 +1,25 @@
 
-## Logical (boolean)
+## Tipul de date Logical (boolean)
 x <- TRUE
 x
 class(x)
 
-## numeric (float)
+## Tipul de date numeric (float)
 x <- 10
 x
 class(x)
 
-## numeric (float)
+## Tipul de date numeric (float)
 x <- 10.0
 x
 class(x)
 
-##  interger (int)
+## Tipul de date  interger (int)
 x <- 10L
 x
 class(x)
 
-## complex = real + imaginar
+## Tipul de date  complex = real + imaginar
 x <- 2 + 3i
 class(x)
 
@@ -31,7 +31,7 @@ class(x)
 ## i la puterea a 2a este -1
 1i ** 2
 
-## character (str)
+## Tipul de date character (str)
 x <- "cafea"
 x
 class(x)

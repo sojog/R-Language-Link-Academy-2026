@@ -1,5 +1,5 @@
 
-
+# Definirea unei functii
 func1  <- function(nume) {
    cat ("Salutare", nume)
 }
