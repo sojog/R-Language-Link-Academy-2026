@@ -1,4 +1,4 @@
-df <- read.csv("/Users/mb_pro/Documents/LinkAcademy/01.Python_Track/08.R_language/Cursuri/Curs3/clwin.csv",header=TRUE) 
+df <- read.csv("clwin.csv",header=TRUE) 
 class(df)
 df
 
