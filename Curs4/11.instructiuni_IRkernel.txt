@@ -1,0 +1,11 @@
+1. Deschidem consola interactiva
+    R
+
+2. Instalam IRkernel
+    install.packages("IRkernel")
+
+3. Alegem locatia ex( Hungary - 40 )
+    40 
+
+4. Rulare IRkernel
+    IRkernel::installspec(user=TRUE)
