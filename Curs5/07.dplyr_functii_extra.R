@@ -26,3 +26,5 @@ cat("\n \n Functie de random picking \n \n")
 
 iris %>%  sample_n(8)
 iris %>%  head(8)
+
+
